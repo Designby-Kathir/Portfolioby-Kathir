@@ -1,6 +1,4 @@
-# Portfolioby-Kathir
-
-Mechanical Engineering Portfolio
+# Portfolioby-Kathir | Mechanical Engineering Portfolio
 
 Mechanical Engineering student specializing in Automotive System Design and CAD-based Product Development.
 
