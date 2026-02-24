@@ -61,6 +61,9 @@ To model and assemble a complete internal combustion engine with proper constrai
 ### Multiview Layout
 ![Valve multiview](images/valve_multiview.png)
 
+### Valve 2D Draft
+![valve 2D Draft](images/valve_2D.png)
+
 ### Objective
 To create a detailed valve mechanism assembly and analyze its motion functionality.
 
