@@ -55,6 +55,9 @@ To model and assemble a complete internal combustion engine with proper constrai
 
 ## 2️⃣ Valve Assembly Design (CATIA V5)
 
+### Full Assembly View
+![Valve Full](images/valve_full.png)
+
 ### Objective
 To create a detailed valve mechanism assembly and analyze its motion functionality.
 
