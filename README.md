@@ -28,7 +28,7 @@ Mechanical Engineering student specializing in Automotive System Design and CAD-
 ## 1️⃣ IC Engine Assembly (CATIA V5)
 
 ### Full Assembly View
-![Engine Full](Engine-Assembly/engine_Full.png)
+![Engine Full](Engine-Assembly/assembly_full.png)
 
 ### Multiview Layout
 ![Engine Multiview](Engine-Assembly/engine_multiview.png)
