@@ -33,6 +33,9 @@ Mechanical Engineering student specializing in Automotive System Design and CAD-
 ### Multiview Layout
 ![Engine Multiview](images/engine_multiview.png)
 
+### Assembly Drawing
+![Engine 2D Draft](images/engine_drafting.png)
+
 ### Objective
 To model and assemble a complete internal combustion engine with proper constraints and motion relationships.
 
