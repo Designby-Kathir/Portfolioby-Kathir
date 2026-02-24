@@ -83,13 +83,13 @@ To create a detailed valve mechanism assembly and analyze its motion functionali
 ## 3️⃣ Wheel Suspension System (CATIA V5)
 
 ### Full Assembly View
-![Suspension Full](WheelSuspension-System/suspension.png)
+![Suspension Full](Suspension-System/suspension.png)
 
 ### Multiview Layout
-![Suspension multiview](WheelSuspension-System/multiview.png)
+![Suspension multiview](Suspension-System/suspension_multiview.png)
 
 ### Suspension 2D Draft
-![Suspension 2D Draft](WheelSuspension-System/suspension_2D.png)
+![Suspension 2D Draft](Suspension-System/suspension_2D.png)
 
 ### Objective
 To model a basic automotive suspension system and understand load transmission.
@@ -110,13 +110,13 @@ To model a basic automotive suspension system and understand load transmission.
 ## 4️⃣ Coilover Shock Absorber Design (SolidWorks)
 
 ### Full Assembly View
-![Shock Absorber Full](CoiloverShock-Absorber/shock_absorber.png)
+![Shock Absorber Full](Shock-Absorber/shock_absorber.png)
 
 ### Multiview Layout
-![Shock Absorber multiview](CoiloverShock-Absorber/absorber_multiview.png)
+![Shock Absorber multiview](Shock-Absorber/absorber_multiview.png)
 
 ### Exploded View
-![Shock Absorber Exploded](CoiloverShock-Absorber/exploded_view.png)
+![Shock Absorber Exploded](Shock-Absorber/exploded_view.png)
 
 ### Objective
 To design and assemble a telescopic shock absorber model.
