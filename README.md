@@ -107,7 +107,16 @@ To model a basic automotive suspension system and understand load transmission.
 
 ---
 
-## 4️⃣ Shock Absorber Design (SolidWorks)
+## 4️⃣ Coilover Shock Absorber Design (SolidWorks)
+
+### Full Assembly View
+![Shock Absorber Full](images/shock_absorber.png)
+
+### Multiview Layout
+![Shock Absorber multiview](images/absorber_multiview.png)
+
+### Exploded View
+![Shock Absorber Exploded](images/exploded_view.png)
 
 ### Objective
 To design and assemble a telescopic shock absorber model.
