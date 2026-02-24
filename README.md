@@ -28,13 +28,13 @@ Mechanical Engineering student specializing in Automotive System Design and CAD-
 ## 1️⃣ IC Engine Assembly (CATIA V5)
 
 ### Full Assembly View
-![Engine Full](images/engine_Full.png)
+![Engine Full](Engine-Assembly/engine_Full.png)
 
 ### Multiview Layout
-![Engine Multiview](images/engine_multiview.png)
+![Engine Multiview](Engine-Assembly/engine_multiview.png)
 
 ### Engine 2D Draft
-![Engine 2D Draft](images/engine_drafting.png)
+![Engine 2D Draft](Engine-Assembly/engine_drafting.png)
 
 ### Objective
 To model and assemble a complete internal combustion engine with proper constraints and motion relationships.
@@ -56,13 +56,13 @@ To model and assemble a complete internal combustion engine with proper constrai
 ## 2️⃣ Valve Assembly Design (CATIA V5)
 
 ### Full Assembly View
-![Valve Full](images/valve_full.png)
+![Valve Full](Valve-Assembly/valve_full.png)
 
 ### Multiview Layout
-![Valve multiview](images/valve_multiview.png)
+![Valve multiview](Valve-Assembly/valve_multiview.png)
 
 ### Valve 2D Draft
-![valve 2D Draft](images/valve_2D.png)
+![valve 2D Draft](Valve-Assembly/valve_2D.png)
 
 ### Objective
 To create a detailed valve mechanism assembly and analyze its motion functionality.
@@ -83,13 +83,13 @@ To create a detailed valve mechanism assembly and analyze its motion functionali
 ## 3️⃣ Wheel Suspension System (CATIA V5)
 
 ### Full Assembly View
-![Suspension Full](images/suspension.png)
+![Suspension Full](WheelSuspension-System/suspension.png)
 
 ### Multiview Layout
-![Suspension multiview](images/multiview.png)
+![Suspension multiview](WheelSuspension-System/multiview.png)
 
 ### Suspension 2D Draft
-![Suspension 2D Draft](images/suspension_2D.png)
+![Suspension 2D Draft](WheelSuspension-System/suspension_2D.png)
 
 ### Objective
 To model a basic automotive suspension system and understand load transmission.
@@ -110,13 +110,13 @@ To model a basic automotive suspension system and understand load transmission.
 ## 4️⃣ Coilover Shock Absorber Design (SolidWorks)
 
 ### Full Assembly View
-![Shock Absorber Full](images/shock_absorber.png)
+![Shock Absorber Full](CoiloverShock-Absorber/shock_absorber.png)
 
 ### Multiview Layout
-![Shock Absorber multiview](images/absorber_multiview.png)
+![Shock Absorber multiview](CoiloverShock-Absorber/absorber_multiview.png)
 
 ### Exploded View
-![Shock Absorber Exploded](images/exploded_view.png)
+![Shock Absorber Exploded](CoiloverShock-Absorber/exploded_view.png)
 
 ### Objective
 To design and assemble a telescopic shock absorber model.
