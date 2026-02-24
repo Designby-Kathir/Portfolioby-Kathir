@@ -82,6 +82,15 @@ To create a detailed valve mechanism assembly and analyze its motion functionali
 
 ## 3️⃣ Wheel Suspension System (CATIA V5)
 
+### Full Assembly View
+![Suspension Full](images/suspension.png)
+
+### Multiview Layout
+![Suspension multiview](images/multiview.png)
+
+### Suspension 2D Draft
+![Suspension 2D Draft](images/suspension_2D.png)
+
 ### Objective
 To model a basic automotive suspension system and understand load transmission.
 
