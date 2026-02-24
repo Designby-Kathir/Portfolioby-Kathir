@@ -27,6 +27,9 @@ Mechanical Engineering student specializing in Automotive System Design and CAD-
 
 ## 1️⃣ IC Engine Assembly (CATIA V5)
 
+### Full Assembly View
+![Engine Full](images/engine_Full.png)
+
 ### Objective
 To model and assemble a complete internal combustion engine with proper constraints and motion relationships.
 
