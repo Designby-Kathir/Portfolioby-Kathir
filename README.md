@@ -30,6 +30,9 @@ Mechanical Engineering student specializing in Automotive System Design and CAD-
 ### Full Assembly View
 ![Engine Full](images/engine_Full.png)
 
+### Multiview Layout
+![Engine Multiview](images/engine_multiview.png)
+
 ### Objective
 To model and assemble a complete internal combustion engine with proper constraints and motion relationships.
 
