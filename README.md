@@ -107,7 +107,27 @@ To model a basic automotive suspension system and understand load transmission.
 
 ---
 
-## 4️⃣ Coilover Shock Absorber Design (SolidWorks)
+---
+
+## 4️⃣ 6-Axis Industrial Robot Arm (CATIA V5)
+
+### Objective
+To design and assemble a 6-axis industrial robotic arm using CATIA V5 and understand multi-axis joint motion used in industrial automation.
+
+### Work Done
+- Modeled base, shoulder, forearm, wrist joints, and gripper components
+- Created complete robotic arm assembly in CATIA V5 Assembly Workbench
+- Applied rotational constraints to simulate joint movement
+- Structured assembly hierarchy for easier component management
+- Designed gripper mechanism for object handling
+
+### Key Learning
+- Multi-axis kinematic mechanism understanding
+- Assembly constraint control in complex systems
+- Robotic arm joint articulation principles
+- Mechanical linkage coordination in automation systems
+
+## 5️⃣ Coilover Shock Absorber Design (SolidWorks)
 
 ### Full Assembly View
 ![Shock Absorber Full](Shock-Absorber/shock_absorber.png)
