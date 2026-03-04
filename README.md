@@ -109,6 +109,15 @@ To model a basic automotive suspension system and understand load transmission.
 
 ## 4️⃣ 6-Axis Industrial Robot Arm (CATIA V5)
 
+### Assembly View
+![Robot Arm Assembly](Articulate_Robot/Robot_Arm.png)
+
+### Exploded View
+![Robot Arm Exploded](Articulate_Robot/Exploded_view.png)
+
+### Rendered View
+![Robot Arm Render](Articulate_Robot/Robot_Arm_Render.png)
+
 ### Objective
 To design and assemble a 6-axis industrial robotic arm using CATIA V5 and understand multi-axis joint motion used in industrial automation.
 
