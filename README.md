@@ -107,8 +107,6 @@ To model a basic automotive suspension system and understand load transmission.
 
 ---
 
----
-
 ## 4️⃣ 6-Axis Industrial Robot Arm (CATIA V5)
 
 ### Objective
@@ -126,6 +124,8 @@ To design and assemble a 6-axis industrial robotic arm using CATIA V5 and unders
 - Assembly constraint control in complex systems
 - Robotic arm joint articulation principles
 - Mechanical linkage coordination in automation systems
+
+---
 
 ## 5️⃣ Coilover Shock Absorber Design (SolidWorks)
 
